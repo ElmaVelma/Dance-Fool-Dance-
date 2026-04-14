@@ -1,7 +1,7 @@
 # Dance Fool, Dance!
 
 ## Repository
-<Link to your project's public GitHub respository>
+<https://github.com/ElmaVelma/Dance-Fool-Dance-.git>
 
 ## Description
 You will play as a ball and need to collect every item that falls down, gaining a highscore, carful as to not miss any resulating in damage. While the visuals will be a clown balancing on a ball, tripping as you take any damage.
